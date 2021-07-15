@@ -1,5 +1,5 @@
 # Study_Kaggle<br>
-## 👉 **[Titanic(kaggle)](Titanic.ipynb)**
+## 👉 **[Titanic - Machine Learning from Disaster(kaggle)](Titanic.ipynb)**
  
   >**언어 및 작업툴** : Python // Google Colab  
   
