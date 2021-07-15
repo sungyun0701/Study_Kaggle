@@ -12,7 +12,7 @@
   
   ![](/titanic.png)
   
-## 👉 **[Iris(붓꽃 판별)](iris.ipynb)**
+## 👉 **[Iris(붓꽃 판별)](iris_data.ipynb)**
   >**언어 및 작업툴** : Python // Google Colab  
   
   >**목적** : 꽃받침, 길이, 꽃받침, 폭, 꽃잎, 길이, 꽃잎, 폭의 데이터를 통해 붓꽃인지 판별하는 모델 만들기	            
